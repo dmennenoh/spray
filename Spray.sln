@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spray", "Spray.csproj", "{EDD93678-0C63-B067-2F2F-A637D1C84494}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spray.Plugins", "Spray.Plugins.csproj", "{1BD03458-98FD-A94F-4E17-585E35648075}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spray.Editor", "Spray.Editor.csproj", "{E7E31261-027D-5EF7-559E-8D87A82D9319}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDD93678-0C63-B067-2F2F-A637D1C84494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDD93678-0C63-B067-2F2F-A637D1C84494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDD93678-0C63-B067-2F2F-A637D1C84494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDD93678-0C63-B067-2F2F-A637D1C84494}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BD03458-98FD-A94F-4E17-585E35648075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD03458-98FD-A94F-4E17-585E35648075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD03458-98FD-A94F-4E17-585E35648075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD03458-98FD-A94F-4E17-585E35648075}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7E31261-027D-5EF7-559E-8D87A82D9319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7E31261-027D-5EF7-559E-8D87A82D9319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7E31261-027D-5EF7-559E-8D87A82D9319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7E31261-027D-5EF7-559E-8D87A82D9319}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
